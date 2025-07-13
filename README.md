@@ -41,7 +41,7 @@
 
 ### • Let's Connect
 - Email: sakshi6400@gmail.com  
-- LinkedIn: [linkedin.com/in/sakshi6400](https://www.linkedin.com/in/sakshi6400)  
+- LinkedIn: [linkedin.com/in/sakshi6400](https://www.linkedin.com/in/sakshi-shirke)  
 - Portfolio: [https://portfolio-sakshi-shirke-sakshi6400s-projects.vercel.app/](https://portfolio-sakshi-shirke-sakshi6400s-projects.vercel.app/)
 
 ---
